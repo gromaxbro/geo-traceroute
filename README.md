@@ -1,4 +1,4 @@
 # geo-traceroute
 
 
-![image](https://i.ibb.co/pvcVSd4T/Screenshot-2025-02-09-165757.png)
+![image](https://raw.githubusercontent.com/gromaxbro/geo-traceroute/refs/heads/main/Screenshot%202025-02-09%20165757.png)
